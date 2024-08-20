@@ -8,7 +8,7 @@ The following code can be used to import a wine quality red CSV file containing 
 ```python
 import pandas as pd
 
-data = pd.read_csv('https://raw.githubusercontent.com/Miragencia/MLN601_Assessment_3/main/bike%2Bsharing%2Bdataset/hour.csv',
+data = pd.read_csv('https://raw.githubusercontent.com/Miragencia/MLN601_Assessment_3/main/bike%2Bsharing%2Bdataset/day.csv',
                    sep=';', encoding='utf8')
 ```
 
