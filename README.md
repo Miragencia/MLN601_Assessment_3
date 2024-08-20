@@ -1,5 +1,5 @@
 # MLN601_Assessment_3
-https://github.com/Miragencia/MLN601_Assessment_3/blob/main/README.md
+
 Repository for the 3rd Assessment.
 
 # Load the data
